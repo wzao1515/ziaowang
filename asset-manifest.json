@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ziaowang/static/css/main.2cce8147.chunk.css",
+    "main.js": "/ziaowang/static/js/main.ea78338f.chunk.js",
+    "main.js.map": "/ziaowang/static/js/main.ea78338f.chunk.js.map",
+    "runtime~main.js": "/ziaowang/static/js/runtime~main.c6772eee.js",
+    "runtime~main.js.map": "/ziaowang/static/js/runtime~main.c6772eee.js.map",
+    "static/js/2.b41502e9.chunk.js": "/ziaowang/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/ziaowang/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/ziaowang/index.html",
+    "precache-manifest.9150c2dcc27c0070b550c3596b1dbb4c.js": "/ziaowang/precache-manifest.9150c2dcc27c0070b550c3596b1dbb4c.js",
+    "service-worker.js": "/ziaowang/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/ziaowang/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/ziaowang/static/media/logo.5d5d9eef.svg"
+  }
+}
